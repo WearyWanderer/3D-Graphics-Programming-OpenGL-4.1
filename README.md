@@ -13,10 +13,12 @@ Techniques Demonstrated:
 - Brownian noise generation
 
 Click the images below to view demo videos
-ICA1
 ====
+
+ICA1
+-----
 [![img1](https://img.youtube.com/vi/kuvoFrRr6Zc/0.jpg)](https://www.youtube.com/watch?v=kuvoFrRr6Zc)
 
 ICA2
-====
+-----
 [![img2](https://img.youtube.com/vi/X6rXm5Oanbs/0.jpg)](https://www.youtube.com/watch?v=X6rXm5Oanbs)
